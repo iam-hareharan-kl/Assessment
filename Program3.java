@@ -1,4 +1,3 @@
-package Hareharan;
 import java.util.Scanner;
 public class Program3 {
     public static void main(String[] args) {
@@ -20,3 +19,4 @@ public class Program3 {
         }
     }
 }
+
