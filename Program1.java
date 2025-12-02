@@ -1,4 +1,3 @@
-package Hareharan;
 import java.util.Scanner;
 
 public class Program1 {
@@ -39,3 +38,4 @@ class Calculator{
         };
     }
 }
+
