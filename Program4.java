@@ -1,4 +1,3 @@
-package Hareharan;
 import java.util.*;
 
 public class Program4 {
@@ -22,3 +21,4 @@ public class Program4 {
         System.out.println(result);
     }
 }
+
